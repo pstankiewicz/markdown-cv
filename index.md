@@ -70,19 +70,17 @@ Creating and adding new functions to OpenSource CMS and E-shop systems (Joomla, 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`1999-2004`
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+__University of Bialystok__
 
-- Sizar
+Pedagogy and Psychology
 
-`1667 - death`
-__Trinity College, Cambridge__
+`1994-1999`
 
-- Fellow
+__Secondary Technical School of Electrical Engineering__
 
+Electronics technician - Radio and TV specialisation
 
 
 ## Certificates
@@ -100,32 +98,7 @@ __Trinity College, Cambridge__
 *On Track With Golang* - Code School
 
 
-### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
