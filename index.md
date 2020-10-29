@@ -1,28 +1,28 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Piotr Stankiewicz's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Piotr Stankiewicz
+Clean code enthusiast. Python developer. Oldschool technologies lover.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="mailto:piotr.stankiewicz@gmail.com">piotr.stankiewicz@gmail.com</a>
+  <a href="https://bit.ly/35InGRw">LinkedIn</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Team Leader of backend developer team in Optimo Development.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Team management, problem solving, test driven aproach, services administration.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Machine learning/Data science (beginner), microcontrollers and microcomputers programming (average - RaspberryPi, Arduino, NodeMCU, MicroBIT), Clean code using python, Old computers programming (8bit from eighties).
 
 
 ## Education
@@ -86,6 +86,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Oct 2020 -->
 
 
