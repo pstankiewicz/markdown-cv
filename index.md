@@ -42,18 +42,20 @@ __Trinity College, Cambridge__
 
 
 
-## Awards
+## Certificates
 
-`2012`
-President, *Royal Society*, London, UK
+`2016`
+*AGILE PM - Agile management methods* - INPROGRESS Ltd.
 
-Associate, *French Academy of Science*, Paris, France
+`2016`
+*Digging Into Django* - Code School
 
+`2016`
+*Flying Through Python* - Code School
 
+`2016`
+*On Track With Golang* - Code School
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Journals
 
