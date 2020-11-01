@@ -22,9 +22,10 @@ Team management, problem solving, test driven aproach, services administration.
 
 ### Research interests
 
-Machine learning/Data science (beginner), microcontrollers and microcomputers programming
-(average - RaspberryPi, Arduino, NodeMCU, MicroBIT),
-Clean code using python, Old computers programming (8bit from eighties).
+- Machine learning/Data science (always beginner).
+- Microcontrollers and microcomputers programming (average - RaspberryPi, Arduino, NodeMCU, MicroBIT).
+- Clean code using Python.
+- Old computers programming especially 8-bit machines from eighties.
 
 ## Work experience
 `2019-now` __Optimo Development__
